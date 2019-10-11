@@ -1,0 +1,27 @@
+1,0.00,,0,Project command:f:\Git\_client\jxgame/.actionScriptProperties;iflash=false;windowshow=false;chromerun=false;quickcompile=true
+Project configuration:f:\Git\_client\jxgame/.actionScriptProperties.
+1,0.00,,0,output path:f:/Git/_client/jxgame/bin/h5/
+1,0.00,,0,Main Class:f:/Git/_client/jxgame/src/Main.as
+1,0.00,,0,output file:Main
+1,0.00,,0,compilerSourcePath f:/Git/_client/jxgame/libs/laya/src/
+
+1,0.00,,0,Compile Path:f:/Git/_client/jxgame/src/
+
+1,0.00,,0,Compile Path:f:/Git/_client/jxgame/libs/laya/src/
+
+1,0.00,f:/Git/_client/jxgame/src,0,Collect
+1,0.00,f:/Git/_client/jxgame/libs/laya/src,0,Collect
+1,2.00,,0,read class message
+1,89.83,,0,Disable Flash3D f:/Git/_client/jxgame/src/Main.as
+12,89.83,f:/Git/_client/jxgame/bin/h5/Main.max.js,1481621,
+12,89.83,f:/Git/_client/jxgame/bin/h5/js/hall.js,12779,
+12,89.83,f:/Git/_client/jxgame/bin/h5/js/loginui.js,11584,
+12,89.83,f:/Git/_client/jxgame/bin/h5/js/hallui.js,7595,
+12,89.83,f:/Git/_client/jxgame/bin/h5/js/fish.js,103834,
+12,89.83,f:/Git/_client/jxgame/bin/h5/js/hb.js,46517,
+12,89.83,f:/Git/_client/jxgame/bin/h5/js/login.js,12482,
+12,89.83,f:/Git/_client/jxgame/bin/h5/js/hbui.js,36773,
+12,89.83,f:/Git/_client/jxgame/bin/h5/js/fishui.js,15212,
+11,89.83,f:/Git/_client/jxgame/bin/h5/Main.max.html,884,
+******************************************************************************
+14,89.83,,0,

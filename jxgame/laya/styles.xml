@@ -1,0 +1,97 @@
+<res>
+   <item name="res" type="" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="res/brnn/ani" type="" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/brnn/sound" type="" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/sss/ani" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/sss/sound" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/hall/ani" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/hall/sound" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/dsy/sound" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/hjzy/sound" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/hjzy/ani" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/hlcz/sound" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/sgj/sound" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <html type="Button" props="y=450@@!@@x=150@@!@@width=200@@!@@sizeGrid=10,10,10,10@@!@@name=close@@!@@labelSize=32@@!@@labelPadding=-5@@!@@labelFont=Microsoft YaHei@@!@@label=关闭@@!@@height=60">
+      <body>
+         <parsererror style="display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black">
+            <h3>This page contains the following errors:                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </h3>
+            <div style="font-family:monospace;font-size:12px">error on line 1 at column 57: attributes construct error
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </div>
+            <h3>Below is a rendering of the page up to the first error.                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </h3>
+         </parsererror>
+      </body>
+   </html>
+   <item name="res/hall/common/textborder.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=11,10,9,7" picType="0" scale="0"/>
+   <item name="res/hall/common/blueborder.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=12,12,12,12" picType="0" scale="0"/>
+   <item name="res/hall/common/whiteBg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=8,8,8,8" picType="0" scale="0"/>
+   <item name="res/hall/common/btnBg.png" type="Button" compress="0" pack="0" quality="80" props="sizeGrid=23,31,20,40@@!@@" picType="0" scale="0"/>
+   <item name="res/hall/friends/listBg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=1,1,1,1" picType="0" scale="0"/>
+   <item name="res/hall/common/btnBlue.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,20,20,20" picType="0" scale="0"/>
+   <item name="res/hall/common/btnGreen.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,20,20,20" picType="0" scale="0"/>
+   <item name="res/hall/common/radiusBg1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,15,15,15" picType="0" scale="0"/>
+   <item name="res/hall/common/radiusBor1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,15,15,15" picType="0" scale="0"/>
+   <item name="res/hall/common/radiusBor2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=12,12,12,12" picType="0" scale="0"/>
+   <item name="res/hall/common/radiusBor3.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=12,12,12,12" picType="0" scale="0"/>
+   <item name="res/hall/common/radiusBor4.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=7,7,7,7" picType="0" scale="0"/>
+   <item name="res/hall/common/halfBor1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=23,23,23,23" picType="0" scale="0"/>
+   <item name="res/hall/rank/Bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=13,0,13,14" picType="0" scale="0"/>
+   <item name="res/hall/common/radiusBor5.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=12,12,12,12" picType="0" scale="0"/>
+   <item name="res/hall/common/radiusBg2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=7,7,7,7" picType="0" scale="0"/>
+   <item name="res/hall/common/tabBg1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=50,71,50,71" picType="0" scale="0"/>
+   <item name="res/hall/common/tabBg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=50,71,50,71" picType="0" scale="0"/>
+   <item name="res/hhzl/ani/bibei.json" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/hhzl/ani/bibei.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/hhzl/ani/guangbiao.json" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/hhzl/ani/guangbiao.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/hhzl/ani/jiesuan.json" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/hhzl/ani/jiesuan.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/hhzl/sound" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/wjl/ani" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/mintparty/sound" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/login/ani" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/hall/chatWindow/Bubble1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=37,37,18,23" picType="0" scale="0"/>
+   <item name="res/hall/chatWindow/Bubble2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=38,28,18,39" picType="0" scale="0"/>
+   <item name="res/hall/common/radiusBor6.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,10,10,10" picType="0" scale="0"/>
+   <item name="res/wjl/sound" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/hall/common/redDot.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/common/popup/tanchuang.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=77,24,14,24" picType="0" scale="0"/>
+   <item name="res/common/popup/radiusBor3.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=12,12,12,12" picType="0" scale="0"/>
+   <item name="res/common/popup/btnBlue.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,20,20,20" picType="0" scale="0"/>
+   <item name="res/common/sk" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/common/ani" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/common/newbie/ani" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/common/popup/payment/paymentBg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=65,20,20,17" picType="0" scale="0"/>
+   <item name="res/common/popup/payment/inputBg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=16,21,20,19" picType="0" scale="0"/>
+   <item name="res/common/popup/payment/division.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=1,1,1,1" picType="0" scale="0"/>
+   <item name="res/common/popup/radiusBg3.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=5,5,5,5" picType="0" scale="0"/>
+   <item name="res/common/popup/radiusBor7.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=5,5,5,5" picType="0" scale="0"/>
+   <item name="res/login/ui/radiusBg1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=7,7,7,7" picType="0" scale="0"/>
+   <item name="res/common/public/radiusBg2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=16,18,17,12" picType="0" scale="0"/>
+   <item name="res/qhb/ani" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/hb/desktop/setUpBg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,13,13,17" picType="0" scale="0"/>
+   <item name="res/hb/desktop/lateral.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/qhb/sound" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/hb/ui/ruleBg1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=40,40,40,40" picType="0" scale="0"/>
+   <item name="res/hb/ui/ruleBg2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,20,20,20" picType="0" scale="0"/>
+   <item name="res/hb/ui/radiusBg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=18,18,18,18" picType="0" scale="0"/>
+   <item name="res/common/public/changeBor1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=1,40,4,33" picType="0" scale="0"/>
+   <item name="res/common/public/changeBor2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=18,65,16,40" picType="0" scale="0"/>
+   <item name="res/hb/popup/radiusBor.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,30,20,30" picType="0" scale="0"/>
+   <item name="res/hb/popup/tabBg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=30,30,30,30" picType="0" scale="0"/>
+   <item name="res/common/public/hslider.png" type="HSlider" compress="0" pack="0" quality="80" props="sizeGrid=24,45,23,71" picType="0" scale="0"/>
+   <item name="res/common/ui/hslider.png" type="HSlider" compress="0" pack="0" quality="80" props="sizeGrid=22,200,22,200" picType="0" scale="0"/>
+   <item name="res/hb/sound" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/hb/ani" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/common/public/head2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,2,0,2" picType="0" scale="0"/>
+   <item name="res/login/ui/radiusBor.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=12,24,21,22" picType="0" scale="0"/>
+   <item name="res/hb/ui/reel1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,8,31,4" picType="0" scale="0"/>
+   <item name="res/hb/ui/reel2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,8,31,4" picType="0" scale="0"/>
+   <item name="res/common/public/radiusBor1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,10,10,10" picType="0" scale="0"/>
+   <item name="res/common/public/radiusBg1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=8,8,8,8" picType="0" scale="0"/>
+   <item name="res/common/public/radiusBor2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=16,18,19,22" picType="0" scale="0"/>
+   <item name="res/common/public/radiusBor4.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=7,7,7,7" picType="0" scale="0"/>
+   <item name="res/fish/shopAni" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/fish/image" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/fish/spine" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/fish/sound" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+</res>

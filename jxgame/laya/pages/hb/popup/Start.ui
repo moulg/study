@@ -1,0 +1,26 @@
+{
+    "x":0,
+    "type":"Dialog",
+    "selectedBox":1,
+    "selecteID":1,
+    "referenceLines":null,
+    "props":{"width":640,"sceneColor":"#FFFFFF","mouseThrough":false,"height":360},
+    "nodeParent":-1,
+    "label":"Dialog",
+    "isOpen":true,
+    "isDirectory":false,
+    "isAniNode":true,
+    "hasChild":false,
+    "compId":1,
+    "child":[
+        ],
+    "animations":[
+        {
+            "nodes":[
+                ],
+            "name":"ani1",
+            "id":1,
+            "frameRate":24,
+            "action":0
+        }]
+}

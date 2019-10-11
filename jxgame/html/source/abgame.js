@@ -1,0 +1,2 @@
+// window.abgame = { root:"http://jsh5.oss-cn-hangzhou.aliyuncs.com/web/",appid: "wx0e288bbc9b655672", appindex: "0", host: "http://game.jinshungame.com:5556", oss: "http://game.jinshungame.com:5556/gateway/getOsstoken", isClearLS: "false" };
+window.abgame = {appindex: "0", host: "http://122.114.237.127:15538",isClearLS: "false" };

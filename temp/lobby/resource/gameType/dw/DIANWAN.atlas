@@ -1,0 +1,76 @@
+
+DIANWAN.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+701
+  rotate: true
+  xy: 668, 263
+  size: 214, 226
+  orig: 214, 226
+  offset: 0, 0
+  index: -1
+702
+  rotate: false
+  xy: 896, 355
+  size: 115, 122
+  orig: 115, 122
+  offset: 0, 0
+  index: -1
+703
+  rotate: false
+  xy: 896, 355
+  size: 115, 122
+  orig: 115, 122
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 83
+  size: 369, 394
+  orig: 369, 394
+  offset: 0, 0
+  index: -1
+jinbi01
+  rotate: false
+  xy: 373, 94
+  size: 245, 192
+  orig: 245, 192
+  offset: 0, 0
+  index: -1
+jinbi02
+  rotate: false
+  xy: 2, 2
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+jinbi03
+  rotate: false
+  xy: 896, 326
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+jinbi04
+  rotate: true
+  xy: 620, 234
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+wangguan
+  rotate: false
+  xy: 2, 27
+  size: 101, 54
+  orig: 101, 54
+  offset: 0, 0
+  index: -1
+yuanpan
+  rotate: false
+  xy: 373, 288
+  size: 293, 189
+  orig: 293, 189
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+window.abgame={appindex:"0",host:"http://122.114.237.127:15538",isClearLS:"false"};

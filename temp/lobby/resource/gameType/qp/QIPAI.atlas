@@ -1,0 +1,41 @@
+
+QIPAI.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chouma
+  rotate: false
+  xy: 363, 220
+  size: 283, 272
+  orig: 283, 272
+  offset: 0, 0
+  index: -1
+ditu
+  rotate: false
+  xy: 2, 133
+  size: 359, 359
+  orig: 359, 359
+  offset: 0, 0
+  index: -1
+qipai
+  rotate: false
+  xy: 648, 398
+  size: 369, 94
+  orig: 369, 94
+  offset: 0, 0
+  index: -1
+shaizi
+  rotate: false
+  xy: 2, 2
+  size: 134, 129
+  orig: 134, 129
+  offset: 0, 0
+  index: -1
+shaziyou
+  rotate: true
+  xy: 363, 138
+  size: 80, 87
+  orig: 80, 87
+  offset: 0, 0
+  index: -1

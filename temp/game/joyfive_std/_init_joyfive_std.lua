@@ -1,0 +1,12 @@
+--欢乐五张
+require "game.joyfive_std.data._init_joyfive_config"
+require "game.joyfive_std.joyfive_manager"
+require "game.joyfive_std.script.joyfive_card_cfg"
+require "game.joyfive_std.script.joyfive_mainscene"
+require "game.joyfive_std.script.joyfive_player"
+require "game.joyfive_std.script.joyfive_statistics"
+require "game.joyfive_std.script.joyfive_bet"  
+require "game.joyfive_std.script.joyfive_desk"  
+require "game.joyfive_std.script.net_message.send_happyfive"
+require "game.joyfive_std.script.net_message.rec_parse_happyfive"
+require "game.joyfive_std.script.net_message.rec_pro_happyfive"

@@ -1,0 +1,5 @@
+require "game.shark_std.data.shark_bonus_iconXY_config"
+require "game.shark_std.data.shark_imgRes_config"
+require "game.shark_std.data.shark_effect_config"
+require "game.shark_std.data.shark_effect_res_config"
+require "game.shark_std.data.shark_music_config"

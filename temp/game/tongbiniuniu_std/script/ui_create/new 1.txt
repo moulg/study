@@ -1,0 +1,54 @@
+local btnExit = ccui.Button:create()
+btnExit:ignoreContentAdaptWithSize(false)
+btnExit:loadTextureNormal("game/tongbiniuniu_std/resource/button/fanhui.png",0)
+btnExit:setTitleFontSize(14)
+btnExit:setTitleColor(cc.c3b(65, 65, 70))
+btnExit:setScale9Enabled(true)
+btnExit:setCapInsets(cc.rect(15,11,118,102))
+btnExit:setLayoutComponentEnabled(true)
+btnExit:setName("btnExit")
+btnExit:setTag(63)
+btnExit:setCascadeColorEnabled(true)
+btnExit:setCascadeOpacityEnabled(true)
+btnExit:setPosition(1215.7120, 911.6060)
+layout = ccui.LayoutComponent:bindLayoutComponent(btnExit)
+layout:setPositionPercentX(0.9457)
+layout:setPositionPercentY(0.9367)
+layout:setPercentWidth(0.0771)
+layout:setPercentHeight(0.1148)
+layout:setSize(cc.size(112.0000, 104.0000))
+layout:setLeftMargin(1241.7120)
+layout:setRightMargin(30.2885)
+layout:setTopMargin(6.3943)
+layout:setBottomMargin(949.6057)
+Scene:addChild(btnExit)
+
+
+
+
+
+
+
+
+
+
+
+
+local imgHeadBg = ccui.ImageView:create()
+imgHeadBg:ignoreContentAdaptWithSize(false)
+imgHeadBg:loadTexture("game/tongbiniuniu_std/resource/image/mingchengkuang.png",0)
+imgHeadBg:setLayoutComponentEnabled(true)
+imgHeadBg:setName("imgHeadBg")
+imgHeadBg:setTag(448)
+imgHeadBg:setCascadeColorEnabled(true)
+imgHeadBg:setCascadeOpacityEnabled(true)
+imgHeadBg:setPosition(1110.0000, 70.0000)
+layout = ccui.LayoutComponent:bindLayoutComponent(imgHeadBg)
+layout:setPositionPercentX(0.0000)
+layout:setPositionPercentY(0.0000)
+layout:setSize(cc.size(234.0000, 104.0000))
+layout:setLeftMargin(993.0000)
+layout:setRightMargin(-1227.0000)
+layout:setTopMargin(-122.0000)
+layout:setBottomMargin(18.0000)
+Node:addChild(imgHeadBg)

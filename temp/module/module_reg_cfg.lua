@@ -1,0 +1,21 @@
+#remark
+ModuleCfgMgr.add_module_cfg(require "module.moddata.login_module") --登陆
+ModuleCfgMgr.add_module_cfg(require "module.moddata.game_lobby_module") --大厅
+ModuleCfgMgr.add_module_cfg(require "module.moddata.ddz_std_module") --斗地主
+ModuleCfgMgr.add_module_cfg(require "module.moddata.niuniu_std_module") --牛牛
+ModuleCfgMgr.add_module_cfg(require "module.moddata.shuihu_std_module") --水浒
+ModuleCfgMgr.add_module_cfg(require "module.moddata.4s_std_module") --4S店
+ModuleCfgMgr.add_module_cfg(require "module.moddata.texaspoker_module") --德州扑克
+ModuleCfgMgr.add_module_cfg(require "module.moddata.joyfive_std_module") --欢乐五张
+ModuleCfgMgr.add_module_cfg(require "module.moddata.jinchanbuyu_module") --金蟾捕鱼
+ModuleCfgMgr.add_module_cfg(require "module.moddata.likuipiyu_module") --李奎劈鱼
+ModuleCfgMgr.add_module_cfg(require "module.moddata.foursniuniu_std_module") --四人牛牛
+ModuleCfgMgr.add_module_cfg(require "module.moddata.shark_std_module") --金鲨银鲨
+ModuleCfgMgr.add_module_cfg(require "module.moddata.tongbiniuniu_std_module") --通比牛牛
+ModuleCfgMgr.add_module_cfg(require "module.moddata.bairenniuniu_std_module") --百人牛牛
+ModuleCfgMgr.add_module_cfg(require "module.moddata.ddz_match_std_module") --斗地主比赛
+ModuleCfgMgr.add_module_cfg(require "module.moddata.errentexaspoker_module") --二人德州
+ModuleCfgMgr.add_module_cfg(require "module.moddata.horserace_std_module") --乌龟快跑
+ModuleCfgMgr.add_module_cfg(require "module.moddata.goldflower_std_module") --炸金花
+ModuleCfgMgr.add_module_cfg(require "module.moddata.baccarat_std_module") --百家乐
+ModuleCfgMgr.add_module_cfg(require "module.moddata.weishuwu_std_module") --魏蜀吴

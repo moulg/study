@@ -1,0 +1,5 @@
+require "game.bairenniuniu_std.data.bairenniuniu_imgRes_config"
+require "game.bairenniuniu_std.data.bairenniuniu_effect_res_config"
+require "game.bairenniuniu_std.data.bairenniuniu_effect_config"
+-- require "game.bairenniuniu_std.data.bairenniuniu_time_config"
+require "game.bairenniuniu_std.data.bairenniuniu_music_config"

@@ -1,0 +1,15 @@
+﻿ddz_match_effect_res_config = {
+   [1] = {id = 1, plistPath = "game/ddz_match_std/resource/effect/jiabei.plist", imageName = "game/ddz_match/resource/effect/jiabei.png", },
+   [2] = {id = 2, plistPath = "game/ddz_match_std/resource/effect/lose.plist", imageName = "game/ddz_match_std/resource/effect/lose.png", },
+   [3] = {id = 3, plistPath = "game/ddz_match_std/resource/effect/win.plist", imageName = "game/ddz_match_std/resource/effect/win.png", },
+   [4] = {id = 4, plistPath = "game/ddz_match_std/resource/effect/waitTable.plist", imageName = "game/ddz_match/resource/effect/waitTable.png", },
+   [5] = {id = 5, plistPath = "game/ddz_match_std/resource/effect/puke.plist", imageName = "game/ddz_match/resource/effect/puke.png", },
+   [6] = {id = 6, plistPath = "game/ddz_match_std/resource/effect/chuntian.plist", imageName = "game/ddz_match/resource/effect/chuntian.png", },
+   [7] = {id = 7, plistPath = "game/ddz_match_std/resource/effect/fanchun.plist", imageName = "game/ddz_match/resource/effect/fanchun.png", },
+   [8] = {id = 8, plistPath = "game/ddz_match_std/resource/effect/feiji.plist", imageName = "game/ddz_match/resource/effect/feiji.png", },
+   [9] = {id = 9, plistPath = "game/ddz_match_std/resource/effect/feijihechibang.plist", imageName = "game/ddz_match/resource/effect/feijihechibang.png", },
+   [10] = {id = 10, plistPath = "game/ddz_match_std/resource/effect/wangzha.plist", imageName = "game/ddz_match/resource/effect/wangzha.png", },
+   [11] = {id = 11, plistPath = "game/ddz_match_std/resource/effect/long.plist", imageName = "game/ddz_match/resource/effect/long.png", },
+   [12] = {id = 12, plistPath = "game/ddz_match_std/resource/effect/zhadan.plist", imageName = "game/ddz_match/resource/effect/zhadan.png", },
+   [13] = {id = 13, plistPath = "game/ddz_match_std/resource/effect/liandui.plist", imageName = "game/ddz_match/resource/effect/liandui.png", },
+}

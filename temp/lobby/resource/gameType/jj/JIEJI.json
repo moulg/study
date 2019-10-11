@@ -1,0 +1,178 @@
+{
+"skeleton": { "hash": "yEHJJ9uLLhgFZ76p3nCgGVKzn94", "spine": "2.1.27", "width": 369, "height": 394, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "jieji", "parent": "root", "x": -1.46, "y": 70.31 },
+	{ "name": "01", "parent": "jieji", "x": -0.63, "y": 44.8 },
+	{ "name": "1", "parent": "jieji", "x": -2.52, "y": 187.4 },
+	{ "name": "ditu", "parent": "jieji", "x": 1.26, "y": 140.71 }
+],
+"slots": [
+	{ "name": "ditu", "bone": "ditu", "attachment": "ditu" },
+	{ "name": "1", "bone": "1", "attachment": "1" },
+	{ "name": "01", "bone": "01", "attachment": "01" },
+	{ "name": "jieji", "bone": "jieji", "attachment": "jieji" }
+],
+"skins": {
+	"default": {
+		"01": {
+			"01": { "x": -2.73, "y": 32.01, "width": 294, "height": 169 },
+			"02": { "x": 2.09, "y": 28.81, "width": 287, "height": 157 },
+			"03": { "x": 2.77, "y": 24.06, "width": 292, "height": 151 }
+		},
+		"1": {
+			"1": { "x": 3.15, "y": -15.58, "width": 256, "height": 257 }
+		},
+		"ditu": {
+			"ditu": { "x": 2.37, "y": 7.1, "width": 360, "height": 359 }
+		},
+		"jieji": {
+			"jieji": { "x": 2.13, "y": -19.68, "width": 369, "height": 94 }
+		}
+	}
+},
+"animations": {
+	"jieji": {
+		"slots": {
+			"1": {
+				"attachment": [
+					{ "time": 0, "name": "1" },
+					{ "time": 1.6666, "name": "1" }
+				]
+			},
+			"01": {
+				"attachment": [
+					{ "time": 0, "name": "01" },
+					{ "time": 0.1, "name": "02" },
+					{ "time": 0.2, "name": "03" },
+					{ "time": 0.3, "name": "01" },
+					{ "time": 0.4, "name": "02" },
+					{ "time": 0.5, "name": "03" },
+					{ "time": 0.6, "name": "01" },
+					{ "time": 0.7, "name": "02" },
+					{ "time": 0.8, "name": "03" },
+					{ "time": 0.9, "name": "01" },
+					{ "time": 1, "name": "02" },
+					{ "time": 1.1, "name": "03" },
+					{ "time": 1.2, "name": "01" },
+					{ "time": 1.3, "name": "02" },
+					{ "time": 1.4, "name": "03" },
+					{ "time": 1.5, "name": "01" },
+					{ "time": 1.6, "name": "02" },
+					{ "time": 1.6666, "name": "03" }
+				]
+			},
+			"ditu": {
+				"attachment": [
+					{ "time": 0, "name": "ditu" },
+					{ "time": 1.6666, "name": "ditu" }
+				]
+			},
+			"jieji": {
+				"attachment": [
+					{ "time": 0, "name": "jieji" },
+					{ "time": 1.6666, "name": "jieji" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.6666, "x": 1, "y": 1 }
+				]
+			},
+			"jieji": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.6666, "x": 1, "y": 1 }
+				]
+			},
+			"01": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{
+						"time": 0.8333,
+						"x": 1.263,
+						"y": 1.263,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{ "time": 1.6666, "x": 1, "y": 1 }
+				]
+			},
+			"1": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{
+						"time": 0.8333,
+						"x": 1.288,
+						"y": 1.288,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{ "time": 1.6666, "x": 1, "y": 1 }
+				]
+			},
+			"ditu": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.6666, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"drawOrder": [
+			{ "time": 0 },
+			{ "time": 1.6666 }
+		]
+	}
+}
+}

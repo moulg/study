@@ -1,0 +1,5 @@
+require "game.foursniuniu_std.data.four_niuniu_imgRes_config"
+require "game.foursniuniu_std.data.foursniuniu_effect_res_config"
+require "game.foursniuniu_std.data.foursniuniu_effect_config"
+require "game.foursniuniu_std.data.sirenniuniu_time_config"
+require "game.foursniuniu_std.data.foursniuniu_music_config"

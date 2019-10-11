@@ -1,0 +1,12 @@
+bin
+docs
+layaweb
+release/app
+release/ios
+release/android
+release/minigame
+src/ui
+/.laya
+.actionScriptProperties
+.actionScriptProperties.lprj
+.idea

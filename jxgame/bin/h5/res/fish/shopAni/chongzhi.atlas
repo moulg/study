@@ -1,0 +1,111 @@
+
+chongzhi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chongzhi
+  rotate: false
+  xy: 2, 330
+  size: 136, 127
+  orig: 136, 127
+  offset: 0, 0
+  index: -1
+xingxing_0
+  rotate: false
+  xy: 140, 377
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+xingxing_1
+  rotate: false
+  xy: 2, 166
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+xingxing_10
+  rotate: false
+  xy: 140, 131
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+xingxing_11
+  rotate: false
+  xy: 278, 213
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+xingxing_12
+  rotate: false
+  xy: 140, 49
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+xingxing_13
+  rotate: false
+  xy: 278, 131
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+xingxing_2
+  rotate: false
+  xy: 140, 295
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+xingxing_3
+  rotate: false
+  xy: 278, 377
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+xingxing_4
+  rotate: false
+  xy: 2, 84
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+xingxing_5
+  rotate: false
+  xy: 140, 213
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+xingxing_6
+  rotate: false
+  xy: 278, 295
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+xingxing_7
+  rotate: true
+  xy: 416, 321
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+xingxing_8
+  rotate: false
+  xy: 2, 2
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+xingxing_9
+  rotate: false
+  xy: 2, 248
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1

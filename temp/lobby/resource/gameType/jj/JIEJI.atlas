@@ -1,0 +1,48 @@
+
+JIEJI.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 622, 314
+  size: 294, 169
+  orig: 294, 169
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 373, 2
+  size: 287, 157
+  orig: 287, 157
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 622, 161
+  size: 292, 151
+  orig: 292, 151
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 364, 226
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+ditu
+  rotate: false
+  xy: 2, 124
+  size: 360, 359
+  orig: 360, 359
+  offset: 0, 0
+  index: -1
+jieji
+  rotate: false
+  xy: 2, 28
+  size: 369, 94
+  orig: 369, 94
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+window.cfg={appver:"c7",resver:"c7"};

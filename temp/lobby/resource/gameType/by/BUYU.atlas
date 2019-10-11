@@ -1,0 +1,69 @@
+
+BUYU.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P01
+  rotate: false
+  xy: 662, 373
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+P02
+  rotate: false
+  xy: 264, 58
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+P03
+  rotate: false
+  xy: 754, 472
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+dimian
+  rotate: false
+  xy: 2, 109
+  size: 369, 394
+  orig: 369, 394
+  offset: 0, 0
+  index: -1
+shayu
+  rotate: false
+  xy: 373, 196
+  size: 287, 307
+  orig: 287, 307
+  offset: 0, 0
+  index: -1
+shui
+  rotate: false
+  xy: 2, 2
+  size: 260, 105
+  orig: 260, 105
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 422, 179
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+youchi
+  rotate: false
+  xy: 373, 121
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1
+zuochi
+  rotate: false
+  xy: 662, 414
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1

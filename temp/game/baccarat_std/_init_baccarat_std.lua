@@ -1,0 +1,28 @@
+--百家乐
+require "game.baccarat_std.baccarat_manager"
+
+require "game.baccarat_std.data.baccarat_imageRes_config"
+require "game.baccarat_std.data.baccarat_time_config"
+require "game.baccarat_std.data.baccarat_effect_config"
+require "game.baccarat_std.data.baccarat_effect_res_config"
+require "game.baccarat_std.data.baccarat_music_config"
+require "game.baccarat_std.data.baccarat_card_cfg"
+
+-- require "game.baccarat_std.script.baccarat_card_cfg"
+require "game.baccarat_std.script.baccarat_alone_bigeyeitem"
+require "game.baccarat_std.script.baccarat_alone_bigitem"
+require "game.baccarat_std.script.baccarat_alone_smallitem"
+require "game.baccarat_std.script.baccarat_alone_smallstrongitem"
+require "game.baccarat_std.script.baccarat_alone_mainitem"
+require "game.baccarat_std.script.baccarat_shuffle"
+require "game.baccarat_std.script.baccarat_alone"
+require "game.baccarat_std.script.baccarat_player"
+require "game.baccarat_std.script.baccarat_set"
+require "game.baccarat_std.script.baccarat_desk"
+require "game.baccarat_std.script.baccarat_mainscene"
+-- require "game.baccarat_std.script.baccarat_settleAccounts"
+-- require "game.baccarat_std.script.baccarat_statistics"
+
+require "game.baccarat_std.script.net_message.rec_parse_baccarat"
+require "game.baccarat_std.script.net_message.rec_pro_baccarat"
+require "game.baccarat_std.script.net_message.send_baccarat"
